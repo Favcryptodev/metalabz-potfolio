@@ -1,0 +1,18 @@
+{
+  "title": "Seraphyx AI",
+  "imageUrl": "https://cdn.discordapp.com/attachments/1136425050900275221/1358650806894858464/Screenshot_20250406-214312.png?ex=67f49daa&is=67f34c2a&hm=a32519fb4d9b5412f57242e9c68adfd515002b50568c5b1620066d36c9b9bf20&",
+  "blockchains": [],
+  "shortDescription": "SinAI is a Solana reward token.\nMVP, character AI TG bot for anonymous confessions. The LLM interaction allows for rating the confession and submitting anonymous to TG groups for voting.",
+  "developmentScope": [
+    "Full stack ",
+    "TG bot AI confession ",
+    "TG bot reward monitor "
+  ],
+  "technologies": [
+    "React",
+    "Node.js",
+    "Ruat"
+  ],
+  "websiteUrl": "",
+  "githubUrl": ""
+}
