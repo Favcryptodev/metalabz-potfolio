@@ -1,0 +1,18 @@
+{
+  "title": "SinAI with Seraphyx ",
+  "imageUrl": "https://cdn.discordapp.com/attachments/1136425050900275221/1358650806894858464/Screenshot_20250406-214312.png?ex=67f49daa&is=67f34c2a&hm=a32519fb4d9b5412f57242e9c68adfd515002b50568c5b1620066d36c9b9bf20&",
+  "blockchains": [],
+  "shortDescription": "SinAI is a Solana reward token \nMVP is a character AI telegram bot that handles project knowledge and confession interaction.\nAnonymous shares confessions to numerous TG groups for voting after it rates the depravity of the sin.",
+  "developmentScope": [
+    "Full stack ",
+    "Telegram rewards monitor "
+  ],
+  "technologies": [
+    "React",
+    "Web3.js",
+    "Rust",
+    "LLM/MLM "
+  ],
+  "websiteUrl": "",
+  "githubUrl": ""
+}
